@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# --- Backend ---
+
+.DS_Store
+package-lock.json
+node_modules
+.env
+
